@@ -1,5 +1,3 @@
 # bugsFix
-Bugs are fixed!
+Bugs were fixed!
 Hey You! You are pretty!
-# Second fix
-# First fix
